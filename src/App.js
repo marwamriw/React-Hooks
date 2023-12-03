@@ -13,7 +13,7 @@ function App() {
       const[movie,setMovie] = useState([{
         title:'Üç Kiz Kardeş',
         description :'Three Sisters,love,betrayal,mercy and brotherhood will be told. Their mother is a teacher, and their father is the PTT director',
-        rating :3,
+        rating :2.5,
         poster:'i2.jpeg'
       },
     {
@@ -31,13 +31,13 @@ function App() {
     {
       title:'Sadakatsiz',
       description :'Doctor Asya  lives a peaceful and happy life in Tekirdağ with her husband Volkan (Caner Cindoruk) and their son Ali (Alp Akar)',
-      rating :3,
+      rating :3.5,
       poster:'i8.jpg'
     },
     {
       title:'Baht Oyunu',
       description :'Ada is a young girl who believes that if she is abandoned by her first love, she will be unhappy forever like the women of her family.',
-      rating :2,
+      rating :2.5,
       poster:'i11.jpg'
     },
     {
@@ -67,7 +67,7 @@ function App() {
     {
       title:'Kasaba Doktoru',
       description :'The talented Ömer, who decided to become a doctor after losing his father, and the legendary surgeon Hakan',
-      rating : 1,
+      rating : 1.5,
       poster:'i.png'
     },
     {
