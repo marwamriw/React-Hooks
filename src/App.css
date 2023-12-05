@@ -44,19 +44,6 @@ body{
   margin-bottom: 20px;
   padding: 5px;
 }
-/* Media Query for medium desktop screens and up  */
-@media (max-width: 992px) {
-  .star {
-    width: 10%;
-    margin-left: 5px; 
-  }
-  body{
-    width: 100%; 
-  }
-  .container-title{
-    width: 100%;
-  }
-}
 
 
 
